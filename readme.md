@@ -179,6 +179,7 @@
 | [UIColor Picker](https://uicolorpicker.com/) | A collection of UI Colors with hex codes available to be copied in just one click. |
 | [Color Hex](https://www.color-hex.com) | Color-hex gives information about colors including color models (RGB,HSL,HSV and CMYK) and generates a simple css code for the selected color. |
 | [FarbVelo](https://farbvelo.elastiq.ch/) | A random color palette generator
+| [Branition Colors](https://branition.com/colors) | Hand-curated collection of color palettes best fitted for branding.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
